@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Juwan Miguel
 
-<!--
-**juwanmiguel-ilagan/juwanmiguel-ilagan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MS in Data Science student focused on business analytics, business intelligence, and applied machine learning.
 
-Here are some ideas to get you started:
+## What I’m interested in
+- Business Analytics
+- Business Intelligence
+- SQL and dashboarding
+- Power BI
+- Python for analytics
+- Forecasting and customer insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+- Python
+- SQL
+- Power BI
+- Excel
+- SAP
+- Pandas
+- Scikit-learn
+
+## Current focus
+Building projects that turn business data into decision-ready insights.
+
+## Featured projects
+- Shopee Email Engagement Analytics
+- Retail Inventory & Revenue Dashboard
+- Dengue Outbreak Forecasting
+- Digital Readiness & Data Governance Assessment
+
+## Connect with me
+- LinkedIn: Juwan Miguel Ilagan
